@@ -5,3 +5,5 @@
 2:this is the first line : commit on master;
 3:Line 3 on slave...;commit on slave;
 4: line 4 on slave ; commit on slave; 
+5. line 5 after the conflit on slave;
+
